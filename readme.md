@@ -1,3 +1,11 @@
+Caveat:
+------
+
+This is me thinking out loud. Do not expect overall coherence yet.
+
+------
+
+
 This is an initial exploration of the Open Context site diaries found at
 
 [http://opencontext.dainst.org/sets/.json?rows=2620&type=documents&start=1&response=uri][1] using David McClure's Textplot: 
