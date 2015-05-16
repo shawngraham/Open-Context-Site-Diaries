@@ -27,7 +27,7 @@ Let's compare the structure uncovered by Textplot with the topics deduced by Mal
 
 That presents as a coherent topic; [here are a number of burials in the topic graph](http://shawngraham.github.io/Open-Context-Site-Diaries/sigma/network/# Burial-Obs-A-4-4036 from Turkey/Kenan Tepe/Area A/Trench 4/Locus 4036/Finds Bag 1,). But when we look for 'burial' in textplot [as we have here](http://shawngraham.github.io/Open-Context-Site-Diaries/sigma-textplot/network/#burial) you get a different sense of the _meaning_ of the word. The first map tells you which diaries discuss burials; the second tells us _how_ they are being discussed (click the 'return to full network' button, and then look at the blue-module words). 
 
-
+*Update* I ramped Textplot up some more, so that I could see finer grain details, more words, etc. [Try this one](http://shawngraham.github.io/Open-Context-Site-Diaries/sigma-textplot-big/network/#) and see if you can find the arc of despair! (hint, it's near the Tail of Despond - search for 'nazi' and you'll find it. Yep, Godwin's law applies to site diaries too).
 
 
 
