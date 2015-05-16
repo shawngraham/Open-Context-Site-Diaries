@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Similarity",
     "colorLabel": "",
-    "nodeLabel": "Words in Annual Site Diary"
+    "nodeLabel": "Words in Annual Site Diaries"
   },
   "features": {
     "search": true,
@@ -29,9 +29,9 @@
   "sigma": {
     "graphProperties": {
       "minEdgeSize": 0.2,
-      "maxNodeSize": 7,
+      "maxNodeSize": 5,
       "maxEdgeSize": 0.5,
-      "minNodeSize": 1
+      "minNodeSize": 0.5
     },
     "drawingProperties": {
       "labelThreshold": 10,
